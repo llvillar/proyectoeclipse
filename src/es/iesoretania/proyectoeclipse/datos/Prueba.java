@@ -8,6 +8,8 @@ public class Prueba {
 		System.out.println("Hola mundo!!!");
 
 		System.out.println("Adios!!!");
+		System.out.println("Adios!!!");
+		System.out.println("Adios!!!");
 
 	}
 
